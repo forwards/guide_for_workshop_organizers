@@ -4,3 +4,4 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
+edit: https://github.com/forwards/workshops-guide/edit/master/%s

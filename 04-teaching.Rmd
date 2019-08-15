@@ -1,0 +1,14 @@
+# Teaching
+
+## Overview of curriculum
+
+- Modules included
+- Time estimates
+- Recommended lengths
+
+## Formats
+
+- PPT
+- Keynote
+- Google Slides
+- Xaringan

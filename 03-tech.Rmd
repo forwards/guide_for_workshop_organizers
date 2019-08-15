@@ -1,0 +1,22 @@
+# Tech Infrastructure
+
+## Applications
+
+- LimeSurvey
+- Google Forms
+
+## Website page
+
+- Coordinate with Heather
+
+## Pre/post surveys
+
+- LimeSurvey
+- Google Forms
+
+## Publicizing your event
+
+- Twitter
+- LinkedIn
+- R-Ladies 
+

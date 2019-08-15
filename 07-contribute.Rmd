@@ -1,0 +1,8 @@
+# How to contribute to this book
+
+Interested in adding to this book? Here's how to contribute:
+
+1. Fork the repository and clone it.
+2. Edit the appropriate R Markdown page, ie. `04-teaching.Rmd`
+3. Build the book with `bookdown::serve_book()`
+4. Commit and push your changes, then submit a PR!
